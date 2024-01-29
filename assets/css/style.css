@@ -584,6 +584,11 @@ section .container {
   padding-bottom: 10px;
   text-align: justify;
 }
+
+.resume .resume-item p {
+  
+  text-align: justify;
+}
 .resume .resume-item:last-child {
   padding-bottom: 0;
 }
