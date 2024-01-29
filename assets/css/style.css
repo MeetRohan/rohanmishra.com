@@ -343,7 +343,9 @@ section .container {
   font-family: "Poppins", sans-serif;
   color: #fff;
 }
-
+.content p{
+	text-align: justify;
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
